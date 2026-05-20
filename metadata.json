@@ -1,7 +1,0 @@
-{
-  "owner": "peter-evans",
-  "name": "repository-dispatch",
-  "visibility": "public",
-  "description": "A GitHub action to create a repository dispatch event",
-  "block_publish": false
-}
