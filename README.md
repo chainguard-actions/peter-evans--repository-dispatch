@@ -8,7 +8,7 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 | Version | Tag | Upstream commit |
 |---------|-----|-----------------|
-| v4.0.1 | [`v4.0.1`](https://github.com/chainguard-actions/repository-dispatch/tree/v4.0.1) | — |
+| v4.0.1 | [`v4.0.1`](https://github.com/chainguard-actions/peter-evans--repository-dispatch/tree/v4.0.1) | — |
 
 ## Privacy
 
